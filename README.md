@@ -1,7 +1,10 @@
 Tag Cloud for Octopress
 =======================
+
 Fixed Problem
+-------------
 最新版的Octopress已经支持中文tag与category
+
 修复了在最新版的Octopress下使用本插件导致的中文category链接无法正常被转换为拼音的bug
 
 
